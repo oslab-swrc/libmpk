@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: Copyright (c) 2019 gts3.org (SSLab@Gatech)
+// SPDX-License-Identifier: MIT
+
 #include<linux/kernel.h>
 #include<linux/init.h>
 #include<linux/sched.h>

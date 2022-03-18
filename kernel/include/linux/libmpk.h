@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: Copyright (c) 2019 gts3.org (SSLab@Gatech)
+// SPDX-License-Identifier: MIT
 
 #ifndef _LINUX_LIBMPK
 #define _LINUX_LIBMPK
